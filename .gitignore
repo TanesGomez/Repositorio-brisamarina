@@ -1,2 +1,3 @@
 #Esto es para ignorar todos los textos .txt
 *.txt
+!readme.txt
